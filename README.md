@@ -58,9 +58,9 @@ The `bias` term models a constant offset in the measured x position.
 ```bash
 # inside your ROS 2 workspace
 cd ~/ros2_ws/src
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/prathammittal369/EKF.git
 cd ~/ros2_ws
-colcon build --packages-select <package_name>
+colcon build --packages-select EKF
 source install/setup.bash
 
 ros2 run <package_name> robot_odo
