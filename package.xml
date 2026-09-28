@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>robot_odo</name>
+  <name>EKF</name>
   <version>1.0.0</version>
   <description>EKF-based fusion of LiDAR, visual, wheel and IMU odometry for ROS 2</description>
   <maintainer email="prathammittal2411@gmail.com">Pratham Mittal</maintainer>
